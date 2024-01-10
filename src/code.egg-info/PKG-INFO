@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: code
+Version: 0.0.0
+Summary: A python package for NLP application
+Home-page: https://github.com/sujith-kamme/QuickGist-A-Text-Summarizer-tool
+Author: sujith-kamme
+Author-email: kammesujith27@gmail.com
+Project-URL: Bug Tracker, https://github.com/sujith-kamme/QuickGist-A-Text-Summarizer-tool/issues
+License-File: LICENSE
+
+# QuickGist- A Text Summarizer tool
