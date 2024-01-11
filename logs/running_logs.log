@@ -1,0 +1,63 @@
+[2024-01-10 12:18:17,791: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 12:18:17,792: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 12:18:17,793: INFO: common] created directory at: artifacts
+[2024-01-10 12:21:19,647: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 12:21:19,648: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 12:21:19,649: INFO: common] created directory at: artifacts
+[2024-01-10 12:21:19,649: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 17:54:04,311: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 17:54:04,313: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 17:54:04,314: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 17:54:04,314: INFO: common] created directory at: artifacts
+[2024-01-10 17:54:04,315: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 17:55:35,829: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 17:55:35,829: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 17:55:35,830: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 17:55:35,831: INFO: common] created directory at: artifacts
+[2024-01-10 17:55:35,831: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 17:56:35,113: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 17:56:35,114: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 17:56:35,115: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 17:56:35,115: INFO: common] created directory at: artifacts
+[2024-01-10 17:56:35,116: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 17:57:46,001: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 17:57:46,002: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 17:57:46,003: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 17:57:46,003: INFO: common] created directory at: artifacts
+[2024-01-10 17:57:46,003: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 18:02:40,509: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 18:02:40,510: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 18:02:40,511: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 18:02:40,511: INFO: common] created directory at: artifacts
+[2024-01-10 18:02:40,512: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 18:02:54,460: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 18:02:54,461: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 18:02:54,462: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 18:02:54,463: INFO: common] created directory at: artifacts
+[2024-01-10 18:02:54,464: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 18:03:37,485: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 18:03:37,487: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 18:03:37,488: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 18:03:37,488: INFO: common] created directory at: artifacts
+[2024-01-10 18:03:37,489: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 18:06:23,803: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 18:06:23,804: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 18:06:23,805: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 18:06:23,805: INFO: common] created directory at: artifacts
+[2024-01-10 18:06:23,806: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 18:07:43,637: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 18:07:43,638: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 18:07:43,639: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 18:07:43,640: INFO: common] created directory at: artifacts
+[2024-01-10 18:07:43,640: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 18:08:58,214: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 18:08:58,216: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 18:08:58,217: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 18:08:58,217: INFO: common] created directory at: artifacts
+[2024-01-10 18:08:58,217: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 18:19:13,361: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 18:19:13,363: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 18:19:13,364: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 18:19:13,364: INFO: common] created directory at: artifacts
+[2024-01-10 18:19:13,365: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 18:20:18,705: INFO: 2198715394] artifacts/dataset/dataset.zip downloaded from S3!

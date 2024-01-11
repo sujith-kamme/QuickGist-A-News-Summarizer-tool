@@ -1,0 +1,8 @@
+#secret token
+aws_keys.yaml
+
+#datastet
+artifacts
+
+__pycache__
+
