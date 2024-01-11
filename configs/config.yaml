@@ -12,3 +12,9 @@ data_validation:
   root_dir: artifacts/data_validation
   STATUS_FILE: artifacts/data_validation/status.txt
   ALL_DATASET_FILES: ["train.csv", "test.csv", "validation.csv"]
+
+data_transformation:
+  root_dir: artifacts/data_transformation
+  data_path: artifacts/dataset/cnn_dailymail
+  tokenizer_name: google/pegasus-cnn_dailymail
+

@@ -161,3 +161,42 @@ TypeError: __init__() takes 0 positional arguments but 1 was given
 [2024-01-10 22:44:09,334: INFO: data_import_check] test.csv file is present in the artifacts directory
 [2024-01-10 22:44:09,334: INFO: data_import_check] train.csv file is present in the artifacts directory
 [2024-01-10 22:44:09,334: INFO: main] ----------- Data Validation phase completed -----------
+[2024-01-11 00:18:08,117: INFO: config] PyTorch version 2.1.2 available.
+[2024-01-11 00:22:40,128: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-11 00:22:40,130: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-11 00:22:40,130: INFO: common] created directory at: artifacts
+[2024-01-11 00:22:40,131: INFO: common] created directory at: artifacts/data_transformation
+[2024-01-11 00:22:51,873: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-11 00:22:51,874: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-11 00:22:51,875: INFO: common] created directory at: artifacts
+[2024-01-11 00:22:51,875: INFO: common] created directory at: artifacts/data_transformation
+[2024-01-11 00:29:02,487: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-11 00:29:02,489: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-11 00:29:02,489: INFO: common] created directory at: artifacts
+[2024-01-11 00:29:02,490: INFO: common] created directory at: artifacts/data_transformation
+[2024-01-11 00:41:39,525: INFO: config] PyTorch version 2.1.2 available.
+[2024-01-11 00:41:39,628: INFO: main] ----------- Data Ingestion phase started -----------
+[2024-01-11 00:41:39,629: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-11 00:41:39,629: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-11 00:41:39,630: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-11 00:41:39,630: INFO: common] created directory at: artifacts
+[2024-01-11 00:41:39,630: INFO: common] created directory at: artifacts/dataset
+[2024-01-11 00:41:55,665: INFO: data_ingestion] artifacts/dataset/dataset.zip downloaded from S3!
+[2024-01-11 00:42:00,612: INFO: main] ----------- Data Ingestion phase completed -----------
+[2024-01-11 00:42:00,612: INFO: main] ----------- Data Validation phase started -----------
+[2024-01-11 00:42:00,613: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-11 00:42:00,615: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-11 00:42:00,615: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-11 00:42:00,615: INFO: common] created directory at: artifacts
+[2024-01-11 00:42:00,615: INFO: common] created directory at: artifacts/data_validation
+[2024-01-11 00:42:00,615: INFO: data_import_check] validation.csv file is present in the artifacts directory
+[2024-01-11 00:42:00,615: INFO: data_import_check] test.csv file is present in the artifacts directory
+[2024-01-11 00:42:00,616: INFO: data_import_check] train.csv file is present in the artifacts directory
+[2024-01-11 00:42:00,616: INFO: main] ----------- Data Validation phase completed -----------
+[2024-01-11 00:42:00,616: INFO: main] ----------- Data Transformation phase started -----------
+[2024-01-11 00:42:00,617: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-11 00:42:00,617: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-11 00:42:00,617: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-11 00:42:00,617: INFO: common] created directory at: artifacts
+[2024-01-11 00:42:00,617: INFO: common] created directory at: artifacts/data_transformation
+[2024-01-11 00:45:57,900: INFO: main] ----------- Data Transformation phase completed -----------
