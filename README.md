@@ -1,1 +1,1 @@
-# QuickGist- A Text Summarizer tool
+# QuickGist- A News Summarizer tool
