@@ -61,3 +61,17 @@
 [2024-01-10 18:19:13,364: INFO: common] created directory at: artifacts
 [2024-01-10 18:19:13,365: INFO: common] created directory at: artifacts/dataset
 [2024-01-10 18:20:18,705: INFO: 2198715394] artifacts/dataset/dataset.zip downloaded from S3!
+[2024-01-10 21:39:32,820: INFO: main] ----------- Data Ingestion phase started -----------
+[2024-01-10 21:39:32,821: ERROR: main] __init__() takes 0 positional arguments but 1 was given
+Traceback (most recent call last):
+  File "main.py", line 9, in <module>
+    data_ingestion=DataIngestionPipeline()
+TypeError: __init__() takes 0 positional arguments but 1 was given
+[2024-01-10 21:40:37,640: INFO: main] ----------- Data Ingestion phase started -----------
+[2024-01-10 21:40:37,641: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 21:40:37,642: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 21:40:37,642: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 21:40:37,643: INFO: common] created directory at: artifacts
+[2024-01-10 21:40:37,643: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 21:41:05,800: INFO: data_ingestion] artifacts/dataset/dataset.zip downloaded from S3!
+[2024-01-10 21:41:10,757: INFO: main] ----------- Data Ingestion phase completed -----------

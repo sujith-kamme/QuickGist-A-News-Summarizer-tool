@@ -2,7 +2,7 @@
 aws_keys.yaml
 
 #datastet
-artifacts
+artifacts/*
 
 __pycache__
 
