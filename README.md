@@ -1,6 +1,6 @@
 # QuickGist- A News Summarizer tool
 
-### Coding Workflow
+### **Coding Workflow**
 
 1. **Data Ingestion**:
     1. Updating config.yaml
