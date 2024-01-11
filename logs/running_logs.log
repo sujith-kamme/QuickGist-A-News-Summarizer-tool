@@ -75,3 +75,89 @@ TypeError: __init__() takes 0 positional arguments but 1 was given
 [2024-01-10 21:40:37,643: INFO: common] created directory at: artifacts/dataset
 [2024-01-10 21:41:05,800: INFO: data_ingestion] artifacts/dataset/dataset.zip downloaded from S3!
 [2024-01-10 21:41:10,757: INFO: main] ----------- Data Ingestion phase completed -----------
+[2024-01-10 22:17:10,007: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:17:10,009: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:17:10,010: INFO: common] created directory at: artifacts
+[2024-01-10 22:17:10,010: INFO: common] created directory at: artifacts/data_validation
+[2024-01-10 22:20:27,311: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:20:27,312: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:20:27,313: INFO: common] created directory at: artifacts
+[2024-01-10 22:20:27,313: INFO: common] created directory at: artifacts/data_validation
+[2024-01-10 22:21:45,250: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:21:45,252: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:21:45,252: INFO: common] created directory at: artifacts
+[2024-01-10 22:21:45,253: INFO: common] created directory at: artifacts/data_validation
+[2024-01-10 22:22:47,082: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:22:47,084: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:22:47,084: INFO: common] created directory at: artifacts
+[2024-01-10 22:22:47,084: INFO: common] created directory at: artifacts/data_validation
+[2024-01-10 22:23:48,101: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:23:48,102: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:23:48,103: INFO: common] created directory at: artifacts
+[2024-01-10 22:23:48,103: INFO: common] created directory at: artifacts/data_validation
+[2024-01-10 22:23:52,536: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:23:52,538: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:23:52,539: INFO: common] created directory at: artifacts
+[2024-01-10 22:23:52,540: INFO: common] created directory at: artifacts/data_validation
+[2024-01-10 22:24:36,350: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:24:36,351: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:24:36,352: INFO: common] created directory at: artifacts
+[2024-01-10 22:24:36,353: INFO: common] created directory at: artifacts/data_validation
+[2024-01-10 22:24:43,465: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:24:43,467: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:24:43,467: INFO: common] created directory at: artifacts
+[2024-01-10 22:24:43,468: INFO: common] created directory at: artifacts/data_validation
+[2024-01-10 22:42:15,482: INFO: main] ----------- Data Ingestion phase started -----------
+[2024-01-10 22:42:15,483: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:42:15,484: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:42:15,484: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 22:42:15,484: INFO: common] created directory at: artifacts
+[2024-01-10 22:42:15,484: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 22:42:15,484: INFO: data_ingestion] File already exists of size: ~ 515370 KB
+[2024-01-10 22:42:20,485: INFO: main] ----------- Data Ingestion phase completed -----------
+[2024-01-10 22:42:20,486: INFO: main] ----------- Data Validation phase started -----------
+[2024-01-10 22:42:20,488: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:42:20,488: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:42:20,489: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 22:42:20,489: INFO: common] created directory at: artifacts
+[2024-01-10 22:42:20,489: INFO: common] created directory at: artifacts/data_validation
+[2024-01-10 22:42:20,489: INFO: data_import_check] File are present in the artifacts directory
+[2024-01-10 22:42:20,489: INFO: data_import_check] File are present in the artifacts directory
+[2024-01-10 22:42:20,489: INFO: data_import_check] File are present in the artifacts directory
+[2024-01-10 22:42:20,489: INFO: main] ----------- Data Validation phase completed -----------
+[2024-01-10 22:43:18,137: INFO: main] ----------- Data Ingestion phase started -----------
+[2024-01-10 22:43:18,137: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:43:18,138: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:43:18,138: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 22:43:18,138: INFO: common] created directory at: artifacts
+[2024-01-10 22:43:18,138: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 22:43:18,138: INFO: data_ingestion] File already exists of size: ~ 515370 KB
+[2024-01-10 22:43:22,995: INFO: main] ----------- Data Ingestion phase completed -----------
+[2024-01-10 22:43:22,996: INFO: main] ----------- Data Validation phase started -----------
+[2024-01-10 22:43:22,996: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:43:22,997: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:43:22,997: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 22:43:22,997: INFO: common] created directory at: artifacts
+[2024-01-10 22:43:22,997: INFO: common] created directory at: artifacts/data_validation
+[2024-01-10 22:43:22,997: INFO: data_import_check] validation.csv File are present in the artifacts directory
+[2024-01-10 22:43:22,997: INFO: data_import_check] test.csv File are present in the artifacts directory
+[2024-01-10 22:43:22,997: INFO: data_import_check] train.csv File are present in the artifacts directory
+[2024-01-10 22:43:22,997: INFO: main] ----------- Data Validation phase completed -----------
+[2024-01-10 22:44:04,500: INFO: main] ----------- Data Ingestion phase started -----------
+[2024-01-10 22:44:04,500: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:44:04,501: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:44:04,501: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 22:44:04,501: INFO: common] created directory at: artifacts
+[2024-01-10 22:44:04,501: INFO: common] created directory at: artifacts/dataset
+[2024-01-10 22:44:04,501: INFO: data_ingestion] File already exists of size: ~ 515370 KB
+[2024-01-10 22:44:09,332: INFO: main] ----------- Data Ingestion phase completed -----------
+[2024-01-10 22:44:09,333: INFO: main] ----------- Data Validation phase started -----------
+[2024-01-10 22:44:09,334: INFO: common] yaml file: configs/config.yaml loaded successfully
+[2024-01-10 22:44:09,334: INFO: common] yaml file: param.yaml loaded successfully
+[2024-01-10 22:44:09,334: INFO: common] yaml file: configs/aws_keys.yaml loaded successfully
+[2024-01-10 22:44:09,334: INFO: common] created directory at: artifacts
+[2024-01-10 22:44:09,334: INFO: common] created directory at: artifacts/data_validation
+[2024-01-10 22:44:09,334: INFO: data_import_check] validation.csv file is present in the artifacts directory
+[2024-01-10 22:44:09,334: INFO: data_import_check] test.csv file is present in the artifacts directory
+[2024-01-10 22:44:09,334: INFO: data_import_check] train.csv file is present in the artifacts directory
+[2024-01-10 22:44:09,334: INFO: main] ----------- Data Validation phase completed -----------

@@ -1,4 +1,4 @@
-from src.code.entity import DataIngestionConfig
+from src.code.entity import DataIngestionConfig,DataValidationConfig
 from src.code.constants import *
 from src.code.utils.common import read_yaml, create_directories
 
@@ -36,3 +36,16 @@ class ConfigurationManager:
     def get_keys(self):
         keys=self.keys
         return keys
+    
+    def get_data_validation_config(self) -> DataValidationConfig:
+        config = self.config.data_validation
+
+        create_directories([config.root_dir])
+
+        data_validation_config = DataValidationConfig(
+            root_dir=config.root_dir,
+            STATUS_FILE=config.STATUS_FILE,
+            ALL_DATASET_FILES=config.ALL_DATASET_FILES
+        )
+        return data_validation_config
+    

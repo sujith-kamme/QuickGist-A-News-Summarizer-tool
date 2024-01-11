@@ -8,3 +8,7 @@ dataset:
   local_data_file: artifacts/dataset/dataset.zip
   unzip_dir: artifacts/dataset
 
+data_validation:
+  root_dir: artifacts/data_validation
+  STATUS_FILE: artifacts/data_validation/status.txt
+  ALL_DATASET_FILES: ["train.csv", "test.csv", "validation.csv"]
